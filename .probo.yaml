@@ -1,0 +1,5 @@
+steps:
+  - name: Probo site setup
+  plugin: Drupal
+  runInstall: true
+  profileName: standard
